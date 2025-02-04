@@ -40,7 +40,7 @@ public class Gambler {
         // TO DO - Implement game logic
         int diceAmount = simulateThrow();
         bets++;
-
+        // if statement game logic
         if(diceAmount<=5)
         {
           goal++;
