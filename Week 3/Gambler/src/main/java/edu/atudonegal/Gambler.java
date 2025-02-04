@@ -51,7 +51,7 @@ public class Gambler {
         {
           goal--;
         }
-        System.out.println(diceAmount);
+        //System.out.println(diceAmount);
       
       }
       if (pot == goal) {
